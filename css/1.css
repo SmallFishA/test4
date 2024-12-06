@@ -1,0 +1,27 @@
+li{
+    list-style-type: none;
+    text-align: center;
+    line-height: 30px;
+}
+ul{
+    padding:0px;
+    margin:0px;
+}
+.items{
+    width: 50px;
+    height: 30px;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+}
+.total{
+    width: 325px;
+    height: 275px;
+    border: 1px solid red;
+    margin: auto;
+    display: flex;
+}
+.image img{
+    display: none;
+    width: 274px;
+    height: 275px;
+}
